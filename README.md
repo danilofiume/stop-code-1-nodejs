@@ -10,4 +10,4 @@ Questo modulo Node.js stampa i dettagli dei file presenti nella cartella "docume
 1. <span style="color:red">**Rosso**</span> : Cartelle
 2. <span style="color:yellow">**Giallo**</span>: File modificati meno di 5 minuti fa
 3. <span style="color:green">**Verde**</span>: File modificati tra 5 e 30 minuti fa
-4. <span style="color:white">**Bianco**</span>: File modific
+4. <span style="color:white">**Bianco**</span>: File modificato da più di 30 minuti fa
